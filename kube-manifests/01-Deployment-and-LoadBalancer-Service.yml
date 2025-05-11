@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: app1-nginx
-          image: myacrcontainerregistry1389.azurecr.io/app1
+          image: myacrcontainerregistry0117.azurecr.io/app1
           ports:
             - containerPort: 80
 ---
